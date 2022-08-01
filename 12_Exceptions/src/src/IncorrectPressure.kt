@@ -1,0 +1,1 @@
+class IncorrectPressure : Throwable(message = "Воздух откачен или давление превышает 10 атмосфер. Эксплуатация невозможна")
